@@ -281,3 +281,5 @@ stern myapp
 https://kubernetes.io/docs/home/
 
 https://minikube.sigs.k8s.io/docs/
+
+Projeto da Digital Inovation One: Bootcamp Inter Java Developer
